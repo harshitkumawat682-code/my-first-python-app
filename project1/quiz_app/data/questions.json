@@ -1,0 +1,98 @@
+{
+  "easy": [
+    {
+      "id": "e1",
+      "question": "What is 2 + 2?",
+      "choices": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "id": "e2",
+      "question": "What color is the sky on a clear day?",
+      "choices": ["Green", "Red", "Blue", "Yellow"],
+      "answer": "Blue"
+    },
+    {
+      "id": "e3",
+      "question": "How many days are in a week?",
+      "choices": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": "e4",
+      "question": "What is the capital of France?",
+      "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "id": "e5",
+      "question": "Which planet is closest to the Sun?",
+      "choices": ["Venus", "Earth", "Mercury", "Mars"],
+      "answer": "Mercury"
+    }
+  ],
+  "medium": [
+    {
+      "id": "m1",
+      "question": "What is the square root of 144?",
+      "choices": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "id": "m2",
+      "question": "Which element has the chemical symbol 'O'?",
+      "choices": ["Gold", "Oxygen", "Osmium", "Oganesson"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "m3",
+      "question": "In what year did World War II end?",
+      "choices": ["1943", "1944", "1945", "1946"],
+      "answer": "1945"
+    },
+    {
+      "id": "m4",
+      "question": "What is the largest ocean on Earth?",
+      "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific"
+    },
+    {
+      "id": "m5",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choices": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    }
+  ],
+  "hard": [
+    {
+      "id": "h1",
+      "question": "What is the powerhouse of the cell?",
+      "choices": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "h2",
+      "question": "What is the speed of light (approx.) in km/s?",
+      "choices": ["200,000", "300,000", "400,000", "500,000"],
+      "answer": "300,000"
+    },
+    {
+      "id": "h3",
+      "question": "Which mathematician introduced the concept of imaginary numbers?",
+      "choices": ["Euler", "Gauss", "Cardano", "Newton"],
+      "answer": "Cardano"
+    },
+    {
+      "id": "h4",
+      "question": "What is the atomic number of Carbon?",
+      "choices": ["4", "6", "8", "12"],
+      "answer": "6"
+    },
+    {
+      "id": "h5",
+      "question": "Which programming language was created by Guido van Rossum?",
+      "choices": ["Java", "C++", "Python", "Ruby"],
+      "answer": "Python"
+    }
+  ]
+}
